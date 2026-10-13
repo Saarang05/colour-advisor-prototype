@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+# Never commit client material
+discovery-call-notes*.txt
+*.pdf
